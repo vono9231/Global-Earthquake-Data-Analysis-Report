@@ -1,0 +1,284 @@
+id,mag,place,time,tsunami_warning,sig,rms,longitude,latitude,country,state,count_month,count_day
+us7000c7y0,7.0,"13 km NNE of Néon Karlovásion, Greece",2020-10-30 11:51:00,No,1540,0.59,26.7838, 37.8973,GR,North Aegean,2,1
+us6000c9hg,7.6,"99 km SE of Sand Point, Alaska",2020-10-19 20:54:00,Yes,1165,0.91,-159.6258, 54.602,US,Alaska,2,1
+us7000asvb,7.8,"99 km SSE of Perryville, Alaska",2020-07-22 06:12:00,Yes,1150,0.97,-158.596, 55.0715,US,Alaska,2,1
+us7000aq3e,7.0,"114 km NNW of Popondetta, Papua New Guinea",2020-07-17 02:50:00,Yes,820,1.1,147.7704, -7.836,PG,Northern Province,2,1
+us6000ah9t,7.4,"9 km SE of Santa María Xadani, Mexico",2020-06-23 15:29:00,Yes,1524,1.14,-96.0077, 15.8861,MX,Oaxaca,2,1
+us6000ae4n,7.4,south of the Kermadec Islands,2020-06-18 12:49:00,Yes,873,0.86,-177.8571, -33.2927,NZ,Chatham Islands,2,1
+us70008fi4,7.5,"221km SSE of Severo-Kuril'sk, Russia",2020-03-25 02:49:00,Yes,881,0.66,157.6955, 48.9638,RU,Sakhalin,1,1
+us70007pa9,7.0,"94km ENE of Kuril'sk, Russia",2020-02-13 10:33:00,Yes,770,0.83,148.959, 45.6161,JP,Hokkaido,1,1
+us60007idc,7.7,"123km NNW of Lucea, Jamaica",2020-01-28 19:10:00,Yes,1812,0.75,-78.756, 19.4193,JM,Hanover,1,1
+us60006bjl,7.1,"138km E of Bitung, Indonesia",2019-11-14 16:17:00,Yes,799,1.15,126.4156, 1.6213,ID,Maluku Utara,1,1
+us70004jyv,7.2,"93km NNE of Laiwui, Indonesia",2019-07-14 09:10:00,Yes,809,0.88,128.034, -0.5858,ID,Maluku Utara,2,1
+ci38457511,7.1,2019 Ridgecrest Earthquake Sequence,2019-07-06 03:19:00,Yes,1596,0.22,-117.5993333, 35.7695,US,California,2,1
+us600044zz,7.3,"292km NW of Saumlaki, Indonesia",2019-06-24 02:53:00,Yes,952,1.08,129.1692, -6.4078,ID,Maluku,2,1
+us6000417i,7.3,"116km NE of L'Esperance Rock, New Zealand",2019-06-15 22:55:00,Yes,830,0.81,-178.0995, -30.6441,TO,'Eua,2,1
+us60003sc0,8.0,"78km SE of Lagunas, Peru",2019-05-26 07:41:00,Yes,1890,0.84,-75.2697, -5.8119,PE,Loreto,3,1
+us70003kyy,7.6,"46km SSE of Namatanai, Papua New Guinea",2019-05-14 12:58:00,Yes,929,1.0,152.5967, -4.051,PG,East New Britain,3,1
+us70003hqb,7.1,"33km NW of Bulolo, Papua New Guinea",2019-05-06 21:19:00,Yes,826,1.02,146.4494, -6.9746,PG,Morobe,3,1
+us1000j96d,7.0,"23km NNE of Azangaro, Peru",2019-03-01 08:50:00,Yes,872,1.13,-70.1546, -14.7131,PE,Puno,1,1
+us2000jlfv,7.5,"111km ESE of Palora, Ecuador",2019-02-22 10:17:00,Yes,1145,1.12,-77.0505, -2.1862,EC,Pastaza,1,1
+us2000iyta,7.0,"96km ESE of Pondaguitan, Philippines",2018-12-29 03:39:00,Yes,803,1.45,126.9209, 5.8983,PH,Davao,3,1
+us2000ivfw,7.3,"83km W of Nikol'skoye, Russia",2018-12-20 17:01:00,Yes,822,0.79,164.6993, 55.0999,RU,Kamtsjatka,3,1
+us1000i2gt,7.5,"165km ESE of Tadine, New Caledonia",2018-12-05 04:18:00,Yes,871,0.74,169.4266, -21.9496,NC,Loyalty Islands,3,1
+ak018fcnsk91,7.1,"14km NNW of Anchorage, Alaska",2018-11-30 17:29:00,Yes,1760,1.04,-149.9552, 61.3464,US,Alaska,1,1
+us1000haa3,7.0,"118km E of Kimbe, Papua New Guinea",2018-10-10 20:48:00,Yes,758,1.1,151.2046, -5.7012,PG,West New Britain,1,1
+us1000h3p4,7.5,"70km N of Palu, Indonesia",2018-09-28 10:02:00,Yes,2029,1.0,119.8462, -0.2559,ID,Central Sulawesi,2,1
+us2000h9e2,7.9,"102km ESE of Suva, Fiji",2018-09-06 15:49:00,Yes,978,1.07,179.3502, -18.4743,FJ,Eastern,2,1
+us1000gjaz,7.1,"202km WNW of Ile Hunter, New Caledonia",2018-08-29 03:51:00,Yes,776,0.98,170.1262, -22.0295,NC,Loyalty Islands,4,1
+us1000ggj4,7.1,"140km WNW of Iberia, Peru",2018-08-24 09:04:00,No,776,0.99,-70.8284, -11.0355,PE,Madre de Dios,4,1
+us1000gez7,7.3,"24km ENE of Rio Caribe, Venezuela",2018-08-21 21:31:00,Yes,1580,1.1,-62.9019, 10.7731,VE,Sucre,4,1
+us1000gcii,8.2,"286km NNE of Ndoi Island, Fiji",2018-08-19 00:19:00,Yes,1045,0.79,-178.153, -18.1125,WF,Circonscription d'Alo,4,1
+us2000d7q6,7.5,"83km SW of Porgera, Papua New Guinea",2018-02-25 17:44:00,Yes,943,1.31,142.7536, -6.0699,PG,Hela,2,1
+us2000d3km,7.2,"3km S of San Pedro Jicayan, Mexico",2018-02-16 23:39:00,Yes,1381,1.23,-97.9787, 16.3855,MX,Oaxaca,2,1
+us2000cmy3,7.9,"280km SE of Kodiak, Alaska",2018-01-23 09:31:00,Yes,1870,0.77,-149.1658, 56.0039,US,Alaska,3,1
+us2000cjfy,7.1,"38km SSW of Acari, Peru",2018-01-14 09:18:00,Yes,1075,1.2,-74.7092, -15.7675,PE,Arequipa,3,1
+us1000c2zy,7.5,"44km E of Great Swan Island, Honduras",2018-01-10 02:51:00,Yes,1695,0.82,-83.52, 17.4825,HN,Gracias a Dios,3,1
+us2000brlf,7.0,"85km ENE of Tadine, New Caledonia",2017-11-19 22:43:00,Yes,771,0.65,168.6715, -21.3246,NC,Loyalty Islands,2,1
+us2000bmcg,7.3,"29km S of Halabjah, Iraq",2017-11-12 18:18:00,No,2790,1.29,45.9592, 34.9109,IR,Kermanshah,2,1
+us2000ar20,7.1,"1km E of Ayutla, Mexico",2017-09-19 18:14:00,No,1686,1.14,-98.4887, 18.5499,MX,Puebla,2,1
+us2000ahv0,8.2,"101km SSW of Tres Picos, Mexico",2017-09-08 04:49:00,Yes,2910,1.22,-93.8993, 15.0222,MX,Chiapas,2,1
+us20009x42,7.7,"202km ESE of Nikol'skoye, Russia",2017-07-17 23:34:00,Yes,914,0.68,168.857, 54.4434,RU,Kamtsjatka,1,1
+us10007uph,7.9,"35km WNW of Panguna, Papua New Guinea",2017-01-22 04:30:00,Yes,987,1.22,155.1718, -6.2464,PG,Bougainville,2,1
+us10007s9c,7.3,"189km SSE of Tabiauan, Philippines",2017-01-10 06:13:00,Yes,849,1.05,122.6171, 4.4782,PH,Autonomous Region in Muslim Mindanao,2,1
+us10007mn3,7.6,"41km SW of Puerto Quellon, Chile",2016-12-25 14:22:00,Yes,1203,0.79,-73.9413, -43.4064,CL,Los Lagos,3,1
+us200081v8,7.9,"54km E of Taron, Papua New Guinea",2016-12-17 10:51:00,Yes,973,0.97,153.5216, -4.5049,PG,East New Britain,3,1
+us20007z80,7.8,"69km WSW of Kirakira, Solomon Islands",2016-12-08 17:38:00,Yes,961,0.88,161.3273, -10.6812,SB,Makira,3,1
+us1000778i,7.8,"54km NNE of Amberley, New Zealand",2016-11-13 11:02:00,Yes,1647,0.56,173.054, -42.7373,NZ,Canterbury,1,1
+us10006jbi,7.0,"175km NE of Gisborne, New Zealand",2016-09-01 16:37:00,Yes,897,0.88,179.1461, -37.3586,NZ,Gisborne,1,1
+us20006uy6,7.1,North of Ascension Island,2016-08-29 04:29:00,Yes,778,0.87,-17.8255, -0.0456,SH,Ascension,2,1
+us10006d5h,7.2,"110km E of Ile Hunter, New Caledonia",2016-08-12 01:26:00,Yes,799,0.9,173.1167, -22.4765,VU,Tafea,2,1
+us100068jg,7.7,"29km SW of Agrihan, Northern Mariana Islands",2016-07-29 21:18:00,Yes,971,1.38,145.5073, 18.5429,MP,Saipan,1,1
+us10005c88,7.0,"2km N of Norsup, Vanuatu",2016-04-28 19:33:00,Yes,755,1.33,167.3786, -16.0429,VU,Malampa,3,1
+us20005j32,7.8,"27km SSE of Muisne, Ecuador",2016-04-16 23:58:00,Yes,1186,0.94,-79.9218, 0.3819,EC,Esmeraldas,3,1
+us20005iis,7.0,"1km E of Kumamoto-shi, Japan",2016-04-15 16:25:00,Yes,2068,0.85,130.7543, 32.7906,JP,Kumamoto,3,1
+us10004u1y,7.8,"Southwest of Sumatra, Indonesia",2016-03-02 12:49:00,Yes,947,1.14,94.3299, -4.9521,ID,West Sumatra,1,1
+us20004vvx,7.2,"88km N of Yelizovo, Russia",2016-01-30 03:25:00,Yes,799,1.19,158.5463, 53.9776,RU,Kamtsjatka,2,1
+ak01613v15nv,7.1,"86km E of Old Iliamna, Alaska",2016-01-24 10:30:00,Yes,1496,1.05,-153.3392, 59.6204,US,Alaska,2,1
+us100044k6,7.2,"104km W of Murghob, Tajikistan",2015-12-07 07:50:00,No,831,0.94,72.7797, 38.2107,TJ,Gorno-Badakhshan,2,1
+us100043z2,7.1,Southeast Indian Ridge,2015-12-04 22:25:00,No,776,1.42,85.0913, -47.6165,TF,Kerguelen,2,1
+us100040x6,7.6,"211km S of Tarauaca, Brazil",2015-11-24 22:50:00,No,896,1.0,-71.0184, -10.0598,PE,Madre de Dios,2,1
+us100040ww,7.6,"173km WNW of Iberia, Peru",2015-11-24 22:45:00,Yes,957,1.36,-70.9437, -10.5372,PE,Madre de Dios,2,1
+us10003re5,7.5,"45km E of Farkhar, Afghanistan",2015-10-26 09:09:00,No,1589,1.43,70.3676, 36.5244,AF,Badakhshan,2,1
+us10003q0q,7.1,"34km NE of Port-Olry, Vanuatu",2015-10-20 21:52:00,Yes,780,1.02,167.3028, -14.8595,VU,Sanma,2,1
+us20003k7w,7.0,"25km WNW of Illapel, Chile",2015-09-16 23:18:00,No,798,0.93,-71.4262, -31.5622,CL,Coquimbo,2,1
+us20003k7a,8.3,"48km W of Illapel, Chile",2015-09-16 22:54:00,Yes,1960,1.02,-71.6744, -31.5729,CL,Coquimbo,2,1
+us200030kn,7.0,"228km W of Abepura, Indonesia",2015-07-27 21:41:00,Yes,756,1.2,138.5277, -2.6286,ID,Papua,2,1
+us20002yaw,7.0,"83km WNW of Lata, Solomon Islands",2015-07-18 02:27:00,Yes,759,1.09,165.1409, -10.4012,SB,Temotu,2,1
+us20002qn7,7.0,Southern Mid-Atlantic Ridge,2015-06-17 12:51:00,Yes,754,1.16,-17.1605, -35.3639,SH,Tristan da Cunha,1,1
+us20002ki3,7.8,"189km WNW of Chichi-shima, Japan",2015-05-30 11:23:00,Yes,1151,1.12,140.4931, 27.8386,JP,Shizuoka,3,1
+us20002das,7.1,"143km SW of Panguna, Papua New Guinea",2015-05-07 07:10:00,Yes,776,0.7,154.5567, -7.2175,PG,Bougainville,3,1
+us20002bnf,7.5,"130km SSW of Kokopo, Papua New Guinea",2015-05-05 01:44:00,Yes,869,1.02,151.8751, -5.4624,PG,East New Britain,3,1
+us20002926,7.8,"36km E of Khudi, Nepal",2015-04-25 06:11:00,No,2820,0.96,84.7314, 28.2305,NP,Western Region,1,1
+us10001rvu,7.5,"53km SE of Kokopo, Papua New Guinea",2015-03-29 23:48:00,Yes,873,1.32,152.5623, -4.7294,PG,East New Britain,1,1
+usc000ttkd,7.0,"130km N of Nebe, Indonesia",2015-02-27 13:45:00,No,760,1.12,122.5348, -7.2968,ID,East Nusa Tenggara,2,1
+usb000tp5q,7.1,Northern Mid-Atlantic Ridge,2015-02-13 18:59:00,Yes,776,0.79,-31.9016, 52.6487,PT,Azores,2,1
+usc000sxh8,7.1,"154km NW of Kota Ternate, Indonesia",2014-11-15 02:31:00,Yes,782,0.71,126.5217, 1.8929,ID,Maluku Utara,2,1
+usc000stdc,7.1,"144km NE of Ndoi Island, Fiji",2014-11-01 18:57:00,Yes,776,0.84,-177.7587, -19.6903,TO,Tongatapu,2,1
+usb000slwn,7.3,"74km S of Intipuca, El Salvador",2014-10-14 03:51:00,Yes,1132,0.7,-88.1225, 12.5262,SV,La Union,2,1
+usb000sk6k,7.0,Southern East Pacific Rise,2014-10-09 02:14:00,Yes,754,0.43,-110.8112, -32.1082,CL,Valparaiso,2,1
+usc000rki5,7.9,"19km SE of Little Sitkin Island, Alaska",2014-06-23 20:53:00,Yes,962,0.71,178.7352, 51.8486,RU,Chukotskiy Avtonomnyy Okrug,1,1
+usb000pr89,7.5,"70km SW of Panguna, Papua New Guinea",2014-04-19 13:28:00,Yes,865,1.25,155.0241, -6.7547,PG,Bougainville,7,1
+usb000pq41,7.2,"33km ESE of Petatlan, Mexico",2014-04-18 14:27:00,Yes,1187,1.2,-100.9723, 17.397,MX,Guerrero,7,1
+usc000piqj,7.4,"112km S of Kirakira, Solomon Islands",2014-04-13 12:36:00,Yes,842,1.0,162.0511, -11.4633,SB,Makira,7,1
+usc000phx5,7.6,"93km SSE of Kirakira, Solomon Islands",2014-04-12 20:14:00,Yes,889,0.71,162.1481, -11.2701,SB,Makira,7,1
+usc000pft9,7.1,"56km WSW of Panguna, Papua New Guinea",2014-04-11 07:07:00,Yes,776,0.88,155.0485, -6.5858,PG,Bougainville,7,1
+usc000p27i,7.7,"53km SW of Iquique, Chile",2014-04-03 02:43:00,Yes,1083,0.82,-70.4931, -20.5709,CL,Tarapaca,7,1
+usc000nzvd,8.2,"94km NW of Iquique, Chile",2014-04-01 23:46:00,Yes,1309,0.66,-70.7691, -19.6097,CL,Tarapaca,7,1
+usc000kn4n,7.1,"Off the east coast of Honshu, Japan",2013-10-25 17:10:00,Yes,894,1.01,144.6611, 37.1557,JP,Miyagi,2,1
+usb000kdb4,7.1,"4km SE of Sagbayan, Philippines",2013-10-15 00:12:00,Yes,1167,1.3,124.1167, 9.8796,PH,Central Visayas,2,1
+usb000jzma,7.1,"46km SSE of Acari, Peru",2013-09-25 16:42:00,Yes,866,0.9,-74.5112, -15.8385,PE,Arequipa,2,1
+usb000jyiv,7.7,"61km NNE of Awaran, Pakistan",2013-09-24 11:29:00,No,2029,0.93,65.5009, 26.951,PK,Balochistan,2,1
+usb000jdt7,7.0,"101km SW of Atka, Alaska",2013-08-30 16:25:00,No,757,0.89,-175.2297, 51.537,US,Alaska,1,1
+usb000i89z,7.3,"115km ENE of Taron, Papua New Guinea",2013-07-07 18:35:00,Yes,820,0.88,153.927, -3.917,PG,Bougainville,1,1
+usb000h4jh,8.3,Sea of Okhotsk,2013-05-24 05:44:00,Yes,1121,1.02,153.221, 54.892,RU,Kamtsjatka,2,1
+usb000h3k3,7.4,"282km SW of Vaini, Tonga",2013-05-23 17:19:00,Yes,842,0.85,-177.232, -23.009,TO,Tongatapu,2,1
+usb000gbf8,7.2,"251km ENE of Kuril'sk, Russia",2013-04-19 03:05:00,Yes,803,0.86,150.788, 46.221,JP,Hokkaido,3,1
+usb000g7x7,7.7,"83km E of Khash, Iran",2013-04-16 10:44:00,No,1593,1.09,61.996, 28.033,IR,Sistan and Baluchestan,3,1
+usb000g13s,7.0,"240km E of Enarotali, Indonesia",2013-04-06 04:42:00,Yes,755,0.81,138.476, -3.517,ID,Papua,3,1
+usc000f40j,7.1,"31km SE of Lata, Solomon Islands",2013-02-08 15:26:00,Yes,779,0.92,166.018, -10.928,SB,Temotu,4,1
+usc000f1ts,7.0,"27km NNW of Lata, Solomon Islands",2013-02-06 01:54:00,No,754,1.22,165.588, -10.499,SB,Temotu,4,1
+usc000f1se,7.1,"114km WSW of Lata, Solomon Islands",2013-02-06 01:23:00,No,776,1.19,164.882, -11.183,SB,Temotu,4,1
+usc000f1s0,8.0,"76km W of Lata, Solomon Islands",2013-02-06 01:12:00,Yes,991,1.29,165.114, -10.799,SB,Temotu,4,1
+ak0138esnzr,7.5,Southeastern Alaska,2013-01-05 08:58:00,No,1425,1.51,-134.8591, 55.228,US,Alaska,1,1
+usp000jwt8,7.1,Banda Sea,2012-12-10 16:53:00,No,843,0.95,129.825, -6.533,ID,Maluku,2,1
+usp000jwjn,7.3,"off the east coast of Honshu, Japan",2012-12-07 08:18:00,No,1014,0.91,143.949, 37.89,JP,Iwate,2,1
+usp000jv5f,7.4,offshore Guatemala,2012-11-07 16:35:00,No,1455,1.27,-91.895, 13.988,GT,Retalhuleu,1,1
+usp000juhz,7.8,"Haida Gwaii, Canada",2012-10-28 03:04:00,No,1726,0.99,-132.101, 52.788,CA,British Columbia,1,1
+usp000jta1,7.3,Colombia,2012-09-30 16:31:00,No,1221,0.87,-76.362, 1.929,CO,Huila,2,1
+usp000jrsw,7.6,Costa Rica,2012-09-05 14:42:00,No,1555,1.2,-85.315, 10.085,CR,Guanacaste,2,1
+usp000jr83,7.6,Philippine Islands region,2012-08-31 12:47:00,No,1115,1.02,126.638, 10.811,PH,Eastern Visayas,3,1
+usp000jqvm,7.3,off the coast of El Salvador,2012-08-27 04:37:00,No,994,1.3,-88.59, 12.139,SV,Usulutan,3,1
+usp000jq9h,7.7,Sea of Okhotsk,2012-08-14 02:59:00,No,941,0.83,145.064, 49.8,RU,Sakhalin,3,1
+usp000jhr6,7.0,"Baja California, Mexico",2012-04-12 07:15:00,No,1000,1.18,-113.104, 28.696,MX,Baja California,3,1
+usp000jhjb,8.2,off the west coast of northern Sumatra,2012-04-11 10:43:00,No,1213,0.9,92.463, 0.802,ID,Aceh,3,1
+official20120411083836720_20,8.6,off the west coast of northern Sumatra,2012-04-11 08:38:00,No,2048,1.33,93.063, 2.327,ID,Aceh,3,1
+usp000jghj,7.4,"Oaxaca, Mexico",2012-03-20 18:02:00,No,1752,0.98,-98.231, 16.493,MX,Oaxaca,1,1
+usp000jeag,7.1,Vanuatu,2012-02-02 13:34:00,No,793,1.07,167.133, -17.827,VU,Shefa,1,1
+usp000jdar,7.2,off the west coast of northern Sumatra,2012-01-10 18:36:00,No,838,1.09,93.21, 2.433,ID,Aceh,1,1
+usp000jc5z,7.1,"eastern New Guinea region, Papua New Guinea",2011-12-14 05:04:00,No,834,0.78,146.809, -7.551,PG,Morobe,1,1
+usp000j9rr,7.1,eastern Turkey,2011-10-23 10:41:00,No,1096,0.93,43.508, 38.721,TR,Van,2,1
+usp000j9nm,7.4,Kermadec Islands region,2011-10-21 17:57:00,No,845,0.87,-176.238, -28.993,TO,'Eua,2,1
+usp000j83e,7.3,Fiji region,2011-09-15 19:31:00,No,822,1.06,-179.528, -21.611,TO,Tongatapu,2,1
+usp000j7jb,7.0,Vanuatu,2011-09-03 22:55:00,No,761,0.99,169.716, -20.671,VU,Tafea,2,1
+usp000j6z8,7.0,northern Peru,2011-08-24 17:46:00,No,913,0.87,-74.525, -7.641,PE,Loreto,3,1
+usp000j6rj,7.1,Vanuatu,2011-08-20 18:19:00,No,787,1.07,168.218, -18.311,VU,Shefa,3,1
+usp000j6r4,7.2,Vanuatu,2011-08-20 16:55:00,No,813,1.26,168.143, -18.365,VU,Shefa,3,1
+usp000j4gp,7.0,"off the east coast of Honshu, Japan",2011-07-10 00:57:00,No,857,1.04,143.264, 38.034,JP,Iwate,2,1
+usp000j48h,7.6,Kermadec Islands region,2011-07-06 19:03:00,No,892,1.17,-176.34, -29.539,TO,'Eua,2,1
+usp000j3mq,7.3,"Fox Islands, Aleutian Islands, Alaska",2011-06-24 03:09:00,No,829,1.05,-171.836, 52.05,US,Alaska,1,1
+usp000hzf6,7.1,"near the east coast of Honshu, Japan",2011-04-07 14:32:00,No,1032,0.94,141.588, 38.276,JP,Miyagi,1,1
+usp000hvpg,7.7,"off the east coast of Honshu, Japan",2011-03-11 06:25:00,No,927,0.85,144.59, 38.058,JP,Iwate,4,1
+usp000hvpa,7.9,"near the east coast of Honshu, Japan",2011-03-11 06:15:00,No,1102,1.44,141.111, 36.281,JP,Ibaraki,4,1
+official20110311054624120_30,9.1,"2011 Great Tohoku Earthquake, Japan",2011-03-11 05:46:00,No,2184,1.16,142.373, 38.297,JP,Miyagi,4,1
+usp000hvhj,7.3,"near the east coast of Honshu, Japan",2011-03-09 02:45:00,No,958,0.98,142.842, 38.435,JP,Iwate,4,1
+usp000htb4,7.2,southwestern Pakistan,2011-01-18 20:23:00,No,1419,1.3,63.951, 28.777,PK,Balochistan,4,1
+usp000ht15,7.0,"Loyalty Islands, New Caledonia",2011-01-13 16:16:00,No,755,0.99,168.471, -20.628,NC,Loyalty Islands,4,1
+usp000hsfq,7.2,"Araucania, Chile",2011-01-02 20:20:00,No,1060,1.1,-73.326, -38.355,CL,Araucania,4,1
+usp000hsdc,7.0,"Santiago Del Estero, Argentina",2011-01-01 09:56:00,No,754,0.85,-63.136, -26.803,AR,Santiago del Estero,4,1
+usp000hrw0,7.3,Vanuatu region,2010-12-25 13:16:00,No,820,1.17,167.947, -19.702,VU,Tafea,2,1
+usp000hr97,7.4,"Bonin Islands, Japan region",2010-12-21 17:19:00,No,849,0.99,143.698, 26.901,JP,Chiba,2,1
+usp000hnj4,7.8,"Kepulauan Mentawai region, Indonesia",2010-10-25 14:42:00,No,944,1.17,100.082, -3.487,ID,Bengkulu,1,1
+usp000hmbq,7.0,"near the south coast of Papua, Indonesia",2010-09-29 17:11:00,No,771,1.31,133.76, -4.963,ID,Maluku,2,1
+usp000hk46,7.0,South Island of New Zealand,2010-09-03 16:35:00,No,1230,1.3,171.83, -43.522,NZ,Canterbury,2,1
+usp000hj05,7.1,Ecuador,2010-08-12 11:54:00,No,932,0.87,-77.306, -1.266,EC,Napo,3,1
+usp000hhuc,7.3,Vanuatu,2010-08-10 05:23:00,No,841,1.25,168.069, -17.541,VU,Shefa,3,1
+usp000hhhx,7.0,"New Britain region, Papua New Guinea",2010-08-04 22:01:00,No,756,1.19,150.765, -5.746,PG,West New Britain,3,1
+usp000hgmq,7.5,"Moro Gulf, Mindanao, Philippines",2010-07-23 23:15:00,No,875,0.82,123.259, 6.776,PH,Zamboanga Peninsula,4,1
+usp000hgmh,7.6,"Moro Gulf, Mindanao, Philippines",2010-07-23 22:51:00,No,901,0.91,123.48, 6.497,PH,Soccsksargen,4,1
+usp000hgmd,7.3,"Moro Gulf, Mindanao, Philippines",2010-07-23 22:08:00,No,827,0.91,123.409, 6.718,PH,Autonomous Region in Muslim Mindanao,4,1
+usp000hfku,7.3,"New Britain region, Papua New Guinea",2010-07-18 13:34:00,No,829,1.16,150.59, -5.931,PG,West New Britain,4,1
+usp000he3f,7.0,"near the north coast of Papua, Indonesia",2010-06-16 03:16:00,No,755,1.27,136.543, -2.174,ID,Papua,2,1
+usp000hdwb,7.5,"Nicobar Islands, India region",2010-06-12 19:26:00,No,1138,1.1,91.936, 7.881,IN,Andaman and Nicobar Islands,2,1
+usp000hd84,7.2,Vanuatu,2010-05-27 17:14:00,No,803,1.08,166.643, -13.698,VU,Torba,2,1
+usp000hchk,7.2,"northern Sumatra, Indonesia",2010-05-09 05:59:00,No,919,0.92,96.018, 3.748,ID,Aceh,2,1
+usp000hat0,7.8,"northern Sumatra, Indonesia",2010-04-06 22:15:00,No,936,1.19,97.048, 2.383,ID,Aceh,2,1
+ci14607652,7.2,"12km SW of Delta, B.C., MX",2010-04-04 22:40:00,No,2910,0.11,-115.2953333, 32.2861667,MX,Baja California,2,1
+usp000h94v,7.0,"Libertador General Bernardo O'Higgins, Chile",2010-03-11 14:55:00,No,805,1.02,-71.799, -34.326,CL,O'Higgins,1,1
+usp000h7sq,7.4,"off the coast of Bio-Bio, Chile",2010-02-27 08:01:00,No,842,1.06,-75.048, -37.773,CL,Biobio,3,1
+official20100227063411530_30,8.8,"offshore Bio-Bio, Chile",2010-02-27 06:34:00,No,1991,1.09,-72.898, -36.122,CL,Biobio,3,1
+usp000h7qu,7.0,"Ryukyu Islands, Japan",2010-02-26 20:31:00,No,1163,1.05,128.425, 25.93,JP,Okinawa,3,1
+usp000h60h,7.0,Haiti region,2010-01-12 21:53:00,No,1638,0.97,-72.571, 18.443,HT,Ouest,2,1
+usp000h5np,7.1,Solomon Islands,2010-01-03 22:36:00,No,778,1.09,157.354, -8.783,SB,Western Province,2,1
+usp000h3wn,7.3,Fiji,2009-11-09 10:44:00,No,820,0.87,178.331, -17.239,FJ,Western,1,1
+usp000h2gr,7.4,Vanuatu,2009-10-07 23:13:00,No,842,0.96,166.497, -13.093,VU,Torba,3,1
+usp000h2gd,7.8,Santa Cruz Islands,2009-10-07 22:18:00,No,936,0.97,166.382, -12.517,VU,Torba,3,1
+usp000h2g9,7.7,Vanuatu,2009-10-07 22:03:00,No,915,1.31,166.51, -13.006,VU,Torba,3,1
+usp000h237,7.6,"southern Sumatra, Indonesia",2009-09-30 10:16:00,No,1639,0.92,99.867, -0.72,ID,West Sumatra,2,1
+usp000h152,7.0,"Java, Indonesia",2009-09-02 07:55:00,No,1152,0.89,107.297, -7.782,ID,West Java,2,1
+usp000h05x,7.5,"Andaman Islands, India region",2009-08-10 19:55:00,No,1147,1.03,92.902, 14.099,IN,Andaman and Nicobar Islands,2,1
+usp000h04j,7.1,"near the south coast of Honshu, Japan",2009-08-09 10:55:00,No,979,0.91,137.944, 33.167,JP,Shizuoka,2,1
+usp000gxkj,7.3,offshore Honduras,2009-05-28 08:24:00,No,1560,1.12,-86.217, 16.731,HN,Bay Islands,1,1
+usp000gv5p,7.6,Tonga region,2009-03-19 18:17:00,No,902,1.0,-174.66, -23.043,TO,'Eua,1,1
+usp000gu5x,7.0,Kermadec Islands region,2009-02-18 21:53:00,No,754,0.95,-176.33, -27.424,TO,'Eua,2,1
+usp000gtnc,7.2,"Kepulauan Talaud, Indonesia",2009-02-11 17:34:00,No,799,1.14,126.387, 3.886,ID,North Sulawesi,2,1
+usp000gsmz,7.4,east of the Kuril Islands,2009-01-15 17:49:00,No,845,0.91,155.154, 46.857,RU,Sakhalin,3,1
+usp000gs3t,7.4,"near the north coast of Papua, Indonesia",2009-01-03 22:33:00,No,845,1.03,133.305, -0.691,ID,West Papua,3,1
+usp000gs2d,7.7,"near the north coast of Papua, Indonesia",2009-01-03 19:43:00,No,914,1.27,132.885, -0.414,ID,West Papua,3,1
+usp000gpbs,7.3,Sea of Okhotsk,2008-11-24 09:02:00,No,822,0.77,154.322, 54.203,RU,Kamtsjatka,2,1
+usp000gnur,7.4,"Minahasa, Sulawesi, Indonesia",2008-11-16 17:02:00,No,845,1.1,122.091, 1.271,ID,Central Sulawesi,2,1
+usp000ghyg,7.0,"Kermadec Islands, New Zealand",2008-09-29 15:19:00,No,754,1.21,-177.683, -29.756,TO,'Eua,1,1
+usp000gcjg,7.0,"off the east coast of Honshu, Japan",2008-07-19 02:39:00,No,846,0.84,142.214, 37.552,JP,Miyagi,2,1
+usp000gbc0,7.7,Sea of Okhotsk,2008-07-05 02:12:00,No,915,0.83,152.886, 53.882,RU,Kamtsjatka,2,1
+usp000g650,7.9,"eastern Sichuan, China",2008-05-12 06:28:00,No,1870,1.2,103.322, 31.002,CN,Sichuan,1,1
+usp000g3q9,7.1,Macquarie Island region,2008-04-12 00:30:00,No,776,0.99,158.453, -55.664,NZ,Southland,2,1
+usp000g3eq,7.3,"Loyalty Islands, New Caledonia",2008-04-09 12:46:00,No,820,1.29,168.892, -20.071,VU,Tafea,2,1
+usp000g1w2,7.2,Xinjiang-Xizang border region,2008-03-20 22:32:00,No,798,1.03,81.467, 35.49,CN,Xinjiang Uygur Zizhiqu,1,1
+usp000fzx4,7.2,"Kepulauan Mentawai region, Indonesia",2008-02-25 08:36:00,No,839,1.22,99.972, -2.486,ID,West Sumatra,2,1
+usp000fzau,7.4,"Simeulue, Indonesia",2008-02-20 08:08:00,No,929,0.97,95.964, 2.768,ID,Aceh,2,1
+usp000fuse,7.2,"Andreanof Islands, Aleutian Islands, Alaska",2007-12-19 09:30:00,No,798,0.96,-179.509, 51.36,US,Alaska,2,1
+usp000fu3q,7.8,south of the Fiji Islands,2007-12-09 07:28:00,No,961,1.12,-177.514, -25.996,TO,'Eua,2,1
+usp000ftj1,7.4,"Martinique region, Windward Islands",2007-11-29 19:00:00,No,1512,0.74,-61.274, 14.944,MQ,Martinique,2,1
+usp000fshy,7.7,"Antofagasta, Chile",2007-11-14 15:40:00,No,1019,1.11,-69.89, -22.247,CL,Antofagasta,2,1
+usp000frnh,7.2,"Pagan region, Northern Mariana Islands",2007-10-31 03:30:00,No,810,1.09,145.388, 18.9,MP,Saipan,1,1
+usp000fpgq,7.4,"Auckland Islands, New Zealand region",2007-09-30 05:23:00,No,859,1.19,164.115, -49.271,NZ,Southland,6,1
+usp000fpca,7.5,"Volcano Islands, Japan region",2007-09-28 13:38:00,No,883,0.97,142.668, 22.013,MP,Saipan,6,1
+usp000fn3d,7.0,"Kepulauan Mentawai region, Indonesia",2007-09-13 03:35:00,No,776,1.04,99.627, -2.13,ID,West Sumatra,6,1
+usp000fn2b,7.9,"Kepulauan Mentawai region, Indonesia",2007-09-12 23:49:00,No,1177,1.01,100.841, -2.625,ID,Bengkulu,6,1
+official20070912111026830_34,8.4,"southern Sumatra, Indonesia",2007-09-12 11:10:00,No,1842,1.03,101.367, -4.438,ID,Bengkulu,6,1
+usp000fm6b,7.2,Santa Cruz Islands,2007-09-02 01:05:00,No,798,1.31,165.762, -11.61,SB,Temotu,6,1
+usp000fjta,8.0,near the coast of central Peru,2007-08-15 23:40:00,No,1623,0.86,-76.603, -13.386,PE,Lima,3,1
+usp000fj6k,7.5,"Java, Indonesia",2007-08-08 17:05:00,No,865,1.13,107.419, -5.859,ID,West Java,3,1
+usp000fhm9,7.2,Vanuatu,2007-08-01 17:08:00,No,807,1.14,167.68, -15.595,VU,Penama,3,1
+usp000f83m,8.1,Solomon Islands,2007-04-01 20:39:00,No,1030,1.32,157.043, -8.466,SB,Western Province,1,1
+usp000f7b4,7.1,Vanuatu,2007-03-25 00:40:00,No,781,1.0,169.357, -20.617,VU,Tafea,1,1
+usp000f34b,7.5,Molucca Sea,2007-01-21 11:27:00,No,875,1.22,126.282, 1.065,ID,Maluku Utara,2,1
+usp000f2ab,8.1,east of the Kuril Islands,2007-01-13 04:23:00,No,1031,1.12,154.524, 46.243,RU,Sakhalin,2,1
+usp000f114,7.1,Taiwan region,2006-12-26 12:26:00,No,1107,1.0,120.547, 21.799,TW,Taiwan,1,1
+usp000exfn,8.3,Kuril Islands,2006-11-15 11:14:00,No,1062,1.07,153.266, 46.592,RU,Sakhalin,1,1
+usp000ensm,7.7,"south of Java, Indonesia",2006-07-17 08:19:00,No,953,1.16,107.419, -9.284,ID,West Java,1,1
+usp000eh87,7.4,Kermadec Islands region,2006-05-16 10:39:00,No,886,1.32,-179.307, -31.81,TO,'Eua,2,1
+usp000eg5g,8.0,Tonga,2006-05-03 15:26:00,No,1026,1.18,-174.123, -20.187,TO,Ha`apai,2,1
+usp000ef1h,7.6,"near the east coast of Koryakskiy Avtonomnyy Okrug, Russia",2006-04-20 23:25:00,No,889,0.87,167.089, 60.949,RU,Kamtsjatka,1,1
+usp000eamh,7.0,Mozambique,2006-02-22 22:19:00,No,1001,1.37,33.583, -21.324,ZW,Manicaland,1,1
+usp000e8ys,7.6,Banda Sea,2006-01-27 16:58:00,No,937,0.88,128.131, -5.473,ID,Maluku,2,1
+usp000e7f0,7.2,Fiji region,2006-01-02 22:13:00,No,798,1.11,-178.178, -19.926,TO,Tongatapu,2,1
+usp000e462,7.0,"off the east coast of Honshu, Japan",2005-11-14 21:38:00,No,865,0.86,144.896, 38.107,JP,Iwate,1,1
+usp000e12e,7.6,Pakistan,2005-10-08 03:50:00,No,1373,0.9,73.588, 34.539,PK,Azad Kashmir,1,1
+usp000e09h,7.5,northern Peru,2005-09-26 01:55:00,No,1120,0.88,-76.398, -5.678,PE,Loreto,2,1
+usp000dz2j,7.6,"New Ireland region, Papua New Guinea",2005-09-09 07:26:00,No,892,1.04,153.474, -4.539,PG,East New Britain,2,1
+usp000dxe2,7.2,"near the east coast of Honshu, Japan",2005-08-16 02:46:00,No,1158,0.95,142.039, 38.276,JP,Miyagi,1,1
+usp000dvtc,7.2,"Nicobar Islands, India region",2005-07-24 15:42:00,No,808,0.93,92.19, 7.92,ID,Aceh,1,1
+usp000dt25,7.2,off the coast of Northern California,2005-06-15 02:50:00,No,1318,1.2,-125.953, 41.292,US,California,2,1
+usp000dsw1,7.8,"Tarapaca, Chile",2005-06-13 22:44:00,No,1006,1.01,-69.197, -19.987,CL,Tarapaca,2,1
+official20050328160936530_30,8.6,"northern Sumatra, Indonesia",2005-03-28 16:09:00,No,2048,0.91,97.108, 2.085,ID,Aceh,2,1
+usp000dhc1,7.1,Banda Sea,2005-03-02 10:42:00,No,776,1.16,129.933, -6.527,ID,Maluku,2,1
+usp000dfj2,7.1,Celebes Sea,2005-02-05 12:23:00,No,786,1.14,123.337, 5.293,PH,Soccsksargen,1,1
+usp000dbg6,7.2,"Nicobar Islands, India region",2004-12-26 04:21:00,No,804,1.0,92.958, 6.91,ID,Aceh,3,1
+official20041226005853450_30,9.1,2004 Sumatra - Andaman Islands Earthquake,2004-12-26 00:58:00,No,2080,1.17,95.982, 3.295,ID,Aceh,3,1
+usp000db93,8.1,north of Macquarie Island,2004-12-23 14:59:00,No,1009,1.12,161.345, -49.312,NZ,Southland,3,1
+usp000d9h1,7.0,"Hokkaido, Japan region",2004-11-28 18:32:00,No,774,0.79,145.119, 43.006,JP,Hokkaido,5,1
+usp000d975,7.1,"Papua, Indonesia",2004-11-26 02:25:00,No,776,1.18,135.404, -3.609,ID,Papua,5,1
+usp000d8ze,7.1,off the west coast of the South Island of New Zealand,2004-11-22 20:26:00,No,782,1.13,164.721, -46.676,NZ,Southland,5,1
+usp000d8gx,7.2,near the west coast of Colombia,2004-11-15 09:06:00,No,823,0.9,-77.508, 4.695,CO,Choco,5,1
+usp000d85g,7.5,"Kepulauan Alor, Indonesia",2004-11-11 21:26:00,No,868,1.07,124.868, -8.152,ID,East Nusa Tenggara,5,1
+usp000d63h,7.0,near the coast of Nicaragua,2004-10-09 21:26:00,No,754,1.1,-86.665, 11.422,NI,Managua,1,1
+usp000d3mb,7.4,"near the south coast of Honshu, Japan",2004-09-05 14:57:00,No,842,0.91,137.071, 33.184,JP,Wakayama,2,1
+usp000d3ka,7.2,"near the south coast of western Honshu, Japan",2004-09-05 10:07:00,No,798,0.89,136.618, 33.07,JP,Wakayama,2,1
+usp000d0v4,7.3,"southern Sumatra, Indonesia",2004-07-25 14:35:00,No,820,0.85,103.981, -2.427,ID,South Sumatra,2,1
+usp000d06s,7.1,Fiji region,2004-07-15 04:27:00,No,776,0.93,-178.76, -17.656,WF,Circonscription d'Alo,2,1
+usp000ckks,7.3,"near the south coast of Papua, Indonesia",2004-02-07 02:42:00,No,820,1.01,135.023, -4.003,ID,West Papua,2,1
+usp000ckg7,7.0,"Papua, Indonesia",2004-02-05 21:05:00,No,754,0.98,135.538, -3.615,ID,Papua,2,1
+usp000cgz9,7.1,southeast of the Loyalty Islands,2004-01-03 16:23:00,No,776,1.06,169.683, -22.253,NC,Loyalty Islands,1,1
+usp000cg90,7.3,southeast of the Loyalty Islands,2003-12-27 16:00:00,No,820,1.3,169.766, -22.015,NC,Loyalty Islands,1,1
+usp000cd1n,7.8,"Rat Islands, Aleutian Islands, Alaska",2003-11-17 06:43:00,No,936,1.11,178.65, 51.146,RU,Chukotskiy Avtonomnyy Okrug,1,1
+usp000cbpa,7.0,"off the east coast of Honshu, Japan",2003-10-31 01:06:00,No,754,0.8,142.619, 37.812,JP,Miyagi,1,1
+usp000c8sz,7.3,"southwestern Siberia, Russia",2003-09-27 11:33:00,No,820,1.03,87.813, 50.038,RU,Altay,2,1
+usp000c8mb,7.4,"Hokkaido, Japan region",2003-09-25 21:08:00,No,842,1.02,143.593, 41.774,JP,Hokkaido,2,1
+usp000c5h6,7.2,South Island of New Zealand,2003-08-21 12:12:00,No,798,1.1,167.144, -45.104,NZ,Southland,1,1
+usp000c2ka,7.6,Carlsberg Ridge,2003-07-15 20:27:00,No,889,0.98,68.382, -2.598,MV,South Province,1,1
+usp000c0ag,7.1,"Amazonas, Brazil",2003-06-20 06:19:00,No,776,0.89,-71.722, -7.606,BR,Acre,1,1
+usp000by7n,7.0,"Halmahera, Indonesia",2003-05-26 19:23:00,No,754,1.09,128.855, 2.354,ID,Maluku Utara,2,1
+usp000by66,7.0,"near the east coast of Honshu, Japan",2003-05-26 09:24:00,No,754,1.01,141.568, 38.849,JP,Iwate,2,1
+usp000bsvs,7.1,"Rat Islands, Aleutian Islands, Alaska",2003-03-17 16:36:00,No,776,1.26,177.978, 51.272,RU,Chukotskiy Avtonomnyy Okrug,2,2
+ak0033hyl1qx,7.0,"Rat Islands, Aleutian Islands, Alaska",2003-03-17 16:36:00,No,754,0.44,177.5472, 50.3298,RU,Chukotskiy Avtonomnyy Okrug,2,2
+usp000bnyr,7.6,"offshore Colima, Mexico",2003-01-22 02:06:00,No,889,1.4,-104.104, 18.77,MX,Colima,2,1
+usp000bnvq,7.3,Solomon Islands,2003-01-20 08:43:00,No,820,0.84,160.77, -10.491,SB,Makira,2,1
+usp000bhv1,7.3,northwest of the Kuril Islands,2002-11-17 04:53:00,No,820,1.02,146.209, 47.824,JP,Hokkaido,3,1
+ak002e435qpj,7.9,Central Alaska,2002-11-03 22:12:00,No,1740,1.58,-147.4529, 63.5141,US,Alaska,3,1
+usp000bfuz,7.4,"Simeulue, Indonesia",2002-11-02 01:26:00,No,842,1.22,96.085, 2.824,ID,Aceh,3,1
+usp000be54,7.6,"near the north coast of Papua, Indonesia",2002-10-10 10:50:00,No,889,1.15,134.297, -1.757,ID,West Papua,1,1
+usp000bbpf,7.6,"near the north coast of New Guinea, Papua New Guinea",2002-09-08 18:44:00,No,889,1.16,142.945, -3.302,PG,Sandaun,1,1
+usp000ba6m,7.7,south of the Fiji Islands,2002-08-19 11:08:00,No,912,1.08,178.495, -23.884,FJ,Central,2,1
+usp000ba6g,7.7,Fiji region,2002-08-19 11:01:00,No,912,0.93,-179.513, -21.696,TO,Tongatapu,2,1
+usp000b73z,7.3,"Jilin-Heilongjiang border region, China",2002-06-28 17:19:00,No,820,0.86,130.666, 43.752,CN,Heilongjiang Sheng,1,1
+usp000b37m,7.1,Guam region,2002-04-26 16:06:00,No,776,1.04,144.619, 13.088,GU,Merizo,1,1
+usp000b1e2,7.1,Taiwan region,2002-03-31 06:52:00,No,776,0.96,122.179, 24.279,TW,Taiwan,3,1
+usp000azqw,7.5,"Mindanao, Philippines",2002-03-05 21:16:00,No,865,0.95,124.249, 6.033,PH,Soccsksargen,3,1
+usp000azhc,7.4,"Hindu Kush region, Afghanistan",2002-03-03 12:08:00,No,842,1.06,70.482, 36.502,AF,Badakhshan,3,1
+usp000avpw,7.2,Vanuatu,2002-01-02 17:22:00,No,798,0.9,167.856, -17.6,VU,Shefa,1,1
+usp000aufx,7.1,south of Australia,2001-12-12 14:02:00,No,776,0.97,124.688, -42.813,AU,Western Australia,1,1
+usp000asvm,7.8,"southern Qinghai, China",2001-11-14 09:26:00,No,936,1.07,90.541, 35.946,CN,Heilongjiang Sheng,1,1
+usp000arz5,7.0,"New Britain region, Papua New Guinea",2001-10-31 09:10:00,No,754,0.92,150.196, -5.912,PG,West New Britain,3,1
+usp000ar78,7.5,Banda Sea,2001-10-19 03:28:00,No,865,1.14,123.907, -4.102,ID,Sulawesi Tenggara,3,1
+usp000aqsu,7.0,Guam region,2001-10-12 15:02:00,No,754,1.15,144.98, 12.686,GU,Inarajan,3,1
+usp000amsn,7.1,east of the North Island of New Zealand,2001-08-21 06:52:00,No,776,1.18,-179.575, -36.813,NZ,Chatham Islands,1,1
+usp000aj40,7.6,near the coast of southern Peru,2001-07-07 09:38:00,No,889,1.15,-72.077, -17.543,PE,Arequipa,1,1
+official20010623203314130_33,8.4,near the coast of southern Peru,2001-06-23 20:33:00,No,1086,1.05,-73.641, -16.265,PE,Arequipa,2,1
+usp000afyg,7.2,"Kermadec Islands, New Zealand",2001-06-03 02:41:00,No,798,1.01,-178.633, -29.666,TO,'Eua,2,1
+usp000aa8b,7.1,Molucca Sea,2001-02-24 07:23:00,No,776,1.05,126.249, 1.271,ID,North Sulawesi,2,1
+usp000a9kc,7.4,"southern Sumatra, Indonesia",2001-02-13 19:28:00,No,842,1.31,102.562, -4.68,ID,Bengkulu,2,1
+usp000a8ds,7.7,"Gujarat, India",2001-01-26 03:16:00,No,912,1.25,70.232, 23.419,IN,Gujarat,4,1
+usp000a7m5,7.7,offshore El Salvador,2001-01-13 17:33:00,No,912,1.13,-88.66, 13.049,SV,Usulutan,4,1
+usp000a7cv,7.1,Vanuatu,2001-01-09 16:49:00,No,776,1.15,167.17, -14.928,VU,Sanma,4,1
+usp000a70h,7.5,"Mindanao, Philippines",2001-01-01 06:57:00,No,865,1.06,126.579, 6.898,PH,Davao,4,1
