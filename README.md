@@ -1,6 +1,6 @@
 # Sta_141b_final_project
 
-Keerthan Panyala, Eric Liu, Jeffrey Ugochukwu, Chan Woong Joo
+Contributors: Keerthan Panyala, Eric Liu, Jeffrey Ugochukwu, Chan Woong Joo
 
 Project Description:
 
