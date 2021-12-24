@@ -9,9 +9,9 @@ Data extraction of an API to analyze the differences in occurences of earthquake
 
 Folder Structure:
 
-- Code written in /notebooks/ section with Jupyter Notebooks
-- Jupyter notebooks include final project with code, graphs, and writeup
-- CSV and Data files in /data/ section 
+- Code written in /notebooks/ folder with Jupyter Notebooks
+- Jupyter notebooks include final project with code, graphs, and write-ups
+- CSV and Data files in /data/ folder 
 - PDF Containing Project Report in root folder
 
 Within API:
