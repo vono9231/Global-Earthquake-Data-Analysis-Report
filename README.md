@@ -1,4 +1,4 @@
-# STA_141B_project
+# STA_141B_Project
 
 Contributors: Keerthan Panyala, Eric Liu, Jeffrey Ugochukwu, Chan Woong Joo
 
@@ -18,3 +18,5 @@ Within API:
 
 Column names and meanings: https://earthquake.usgs.gov/data/comcat/data-eventterms.php
 Documentation and parameter meanings: https://earthquake.usgs.gov/fdsnws/event/1/
+
+## MAIN @ Final_CJ_merged.ipynb
